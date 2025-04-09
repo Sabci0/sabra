@@ -5,7 +5,7 @@ import { Routes, Route } from "react-router";
 import ProductsPage from './pages/ProductsPage';
 import FeathersPage from './pages/FeathersPage';
 import EggsPage from './pages/EggsPage';
-import GalleryPage from './pages/GalleryPage';
+import GalleryPage from './pages/Gallerypage';
 
 function App() {
 
